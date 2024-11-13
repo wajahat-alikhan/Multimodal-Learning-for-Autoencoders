@@ -1,2 +1,4 @@
 # Multimodal-Learning-for-Autoencoders
-Repo of my SIGGRAPH Asia poster.
+Repository of my SIGGRAPH Asia work (poster).
+
+In Multimodal Autoencoder the image is reconstructed using image and text inputs.
