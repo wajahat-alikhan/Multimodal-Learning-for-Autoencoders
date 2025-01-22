@@ -1,5 +1,6 @@
 # Multimodal-Learning-for-Autoencoders
 Repository of my SIGGRAPH Asia 2024 work (poster).
+You can find the full paper [here](https://dl.acm.org/doi/10.1145/3681756.3697974)
 
 In Multimodal Autoencoder the image is reconstructed using both image and text as inputs, rather than only image as an input.
 
