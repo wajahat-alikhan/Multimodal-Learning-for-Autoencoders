@@ -5,16 +5,18 @@ You can find the full paper [here](https://dl.acm.org/doi/10.1145/3681756.369797
 In Multimodal Autoencoder the image is reconstructed using both image and text as inputs, rather than only image as an input.
 
 Following figure shows the architecture daigram and training scheme of our Multimodal Autoencoder.
+
 ![Architecture](Images/z2.png "Architecture")
 
 The qualititaive results on CIFAR-10 are as follows.
+
 ![Results](Images/z1.png "Results")
 
 Images reconstructed from both image and text inputs are better than only one modality as an input.
 
 
 ### Citation
-Kindly cite this paper, if it is helpful to you
+Kindly cite this paper and star this repository, if it is helpful to you in your research :)
 
 ```
 @inproceedings{10.1145/3681756.3697974,
